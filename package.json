@@ -1,0 +1,14 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@types/jest": "^24.0.24",
+    "@types/node": "^13.1.0",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
